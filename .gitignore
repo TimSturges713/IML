@@ -1,5 +1,0 @@
-label-studio/data/
-__pycache__/
-*.pt
-*.ckpt
-.env
