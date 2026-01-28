@@ -1,3 +1,0 @@
-label-studio-ml
-torch        # or tensorflow, sklearn, etc.
-numpy
